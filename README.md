@@ -10,21 +10,24 @@ This information will guide strategic decisions on outlet development, site sele
 ##
 Insights
 ##
-In the fiscal year 2022, Blinkit achieved total sales of $120 million, with an average sales figure of $141,000. Additionally, the company maintains an average rating of 3.9.
-There is a notable increase in the outlet establishment around 2016 and 2020, peaking at $205K in 2018 before stabilizing around $131K by 2022.
+🔹In the fiscal year 2022, Blinkit achieved total sales of $120 million, with an average sales figure of $141,000. Additionally, the company maintains an average rating of 3.9.
+🔹There is a notable increase in the outlet establishment around 2016 and 2020, peaking at $205K in 2018 before stabilizing around $131K by 2022.
 
-Outlets of high size contribute significantly ($507.90K) to total sales, followed by medium ($444.79K) and small-sized outlets ($248.99K).
+🔹Outlets of high size contribute significantly ($507.90K) to total sales, followed by medium ($444.79K) and small-sized outlets ($248.99K).
 
-Tier 3 locations contribute the highest to sales ($472.13K), followed by Tier 2 ($393.15K) and Tier 1 ($336.40K).
+🔹Tier 3 locations contribute the highest to sales ($472.13K), followed by Tier 2 ($393.15K) and Tier 1 ($336.40K).
 
-Regular fat content items contribute more to total sales ($776.32K) compared to low fat content items ($425.36K).
+🔹Regular fat content items contribute more to total sales ($776.32K) compared to low fat content items ($425.36K).
 
-Fruits and snacks are the top-selling item types, each generating $0.18M in sales.
-\n Other significant categories include household items ($0.14M), frozen foods ($0.12M), and dairy products ($0.10M).
+🔹Fruits and snacks are the top-selling item types, each generating $0.18M in sales.
 
-Supermarket Type 1 contributes the highest sales ($787.55K) and has the highest number of items sold (5,577).
-Grocery stores contribute $151.94K in sales, with 1,083 items sold.
-Supermarket Type 2 and Type 3 contribute around $131.48K and $130.71K in sales, respectively.
+🔹Other significant categories include household items ($0.14M), frozen foods ($0.12M), and dairy products ($0.10M).
+
+🔹Supermarket Type 1 contributes the highest sales ($787.55K) and has the highest number of items sold (5,577).
+
+🔹Grocery stores contribute $151.94K in sales, with 1,083 items sold.
+
+🔹Supermarket Type 2 and Type 3 contribute around $131.48K and $130.71K in sales, respectively.
 
 
 
