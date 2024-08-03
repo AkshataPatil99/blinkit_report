@@ -1,6 +1,6 @@
 # Power BI Project on : blinkit - India's last minute app
 ##
-![image](https://github.com/user-attachments/assets/cedaf58a-d647-43c9-869c-d768d4066b9b)
+![image](https://github.com/user-attachments/assets/5ae3f64f-3ec2-4670-b5cd-34f72f633a17)
 ##
 Business Problem
 ##
@@ -11,23 +11,32 @@ This information will guide strategic decisions on outlet development, site sele
 Insights
 ##
 🔹In the fiscal year 2022, Blinkit achieved total sales of $120 million, with an average sales figure of $141,000. Additionally, the company maintains an average rating of 3.9.
+
 🔹There is a notable increase in the outlet establishment around 2016 and 2020, peaking at $205K in 2018 before stabilizing around $131K by 2022.
 
-🔹Outlets of high size contribute significantly ($507.90K) to total sales, followed by medium ($444.79K) and small-sized outlets ($248.99K).
+🔹Outlets of Medium size contribute significantly ($507.90K) to total sales, followed by Small ($444.79K) and High-sized outlets ($248.99K) contribute the least.
 
-🔹Tier 3 locations contribute the highest to sales ($472.13K), followed by Tier 2 ($393.15K) and Tier 1 ($336.40K).
+🔹Tier 1 locations contribute the highest to sales ($472.13K), followed by Tier 2 ($393.15K) and Tier 3 ($336.40K).
 
-🔹Regular fat content items contribute more to total sales ($776.32K) compared to low fat content items ($425.36K).
+🔹Low fat content items contribute more to total sales ($776.32K) compared to Regular fat content items ($425.36K).
 
 🔹Fruits and snacks are the top-selling item types, each generating $0.18M in sales.
 
 🔹Other significant categories include household items ($0.14M), frozen foods ($0.12M), and dairy products ($0.10M).
 
 🔹Supermarket Type 1 contributes the highest sales ($787.55K) and has the highest number of items sold (5,577).
+##
+To improve Blinkit's performance based on the provided data, here are some actionable suggestions:
+##
+1. Expand High-Selling Categories: Given that fruits, snacks, and household items are the top-selling categories, consider expanding the variety within these categories and increasing stock to meet demand.
 
-🔹Grocery stores contribute $151.94K in sales, with 1,083 items sold.
+2. Promote Low-Selling Items: Items like seafood and breakfast products are low in sales. Promotional campaigns, discounts, or bundling these items with popular products could increase their visibility and sales.
 
-🔹Supermarket Type 2 and Type 3 contribute around $131.48K and $130.71K in sales, respectively.
+3. Focus on High-Tier Locations: Since Tier 1 locations contribute the highest sales, consider opening more outlets in similar high-performing areas. Use data analytics to identify other potential high-tier locations.
+
+4. Increase Average Rating: With an average rating of 3.9, there's room for improvement. Collect and analyze customer feedback to identify common issues and implement changes to enhance product quality and customer service.
+
+5. Loyalty Programs: Introduce or enhance loyalty programs to retain existing customers and attract new ones. Offer exclusive deals, early access to new products, and personalized recommendations.
 
 
 
