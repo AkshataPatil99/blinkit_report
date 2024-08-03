@@ -20,12 +20,11 @@ Tier 3 locations contribute the highest to sales ($472.13K), followed by Tier 2 
 Regular fat content items contribute more to total sales ($776.32K) compared to low fat content items ($425.36K).
 
 Fruits and snacks are the top-selling item types, each generating $0.18M in sales.
-Other significant categories include household items ($0.14M), frozen foods ($0.12M), and dairy products ($0.10M).
+/nOther significant categories include household items ($0.14M), frozen foods ($0.12M), and dairy products ($0.10M).
 
 Supermarket Type 1 contributes the highest sales ($787.55K) and has the highest number of items sold (5,577).
 Grocery stores contribute $151.94K in sales, with 1,083 items sold.
 Supermarket Type 2 and Type 3 contribute around $131.48K and $130.71K in sales, respectively.
 
-Tier 3 outlets sell the most regular fat content items ($0.31M), while Tier 2 and Tier 1 outlets contribute $0.25M and $0.12M respectively.
 
-Grocery stores have the highest item visibility (0.10), while Supermarket Type 1, Type 2, and Type 3 have similar item visibility (0.06).
+
